@@ -1550,6 +1550,11 @@ punycode@^2.1.0:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
+pyroscope@0.0.1-e67b773:
+  version "0.0.1-e67b773"
+  resolved "https://registry.yarnpkg.com/pyroscope/-/pyroscope-0.0.1-e67b773.tgz#78e4c443b1f4609d2d1d5e65e13f0e00444cbdf3"
+  integrity sha512-RAarJvhS5W5EEJY9frrjGOJrEQ5XphT3UG+kpDzEI/4hzXuBHm5wb68dDoFCbsuvau5F+fC08Kt+Uytqk0earg==
+
 queue-microtask@^1.2.2:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
